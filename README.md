@@ -7,6 +7,10 @@
 ---
 
 ## 📌 Problem Statement
+<img width="1291" height="577" alt="image" src="https://github.com/user-attachments/assets/72ded587-9579-40d8-a724-22e6f6c61303" />
+<img width="1268" height="636" alt="image" src="https://github.com/user-attachments/assets/42ef53c8-8340-4131-91f8-cd541e58faeb" />
+<img width="1343" height="596" alt="image" src="https://github.com/user-attachments/assets/11c00c43-69e5-4091-8267-03001f724ae8" />
+
 
 The **MountainCar** problem is a classic reinforcement learning challenge: a car sits in a valley between two hills. The engine alone is too weak to drive straight up the slope — the agent must learn to **build momentum** by rocking back and forth, then use that momentum to reach the goal at the top of the right hill.
 
